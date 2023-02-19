@@ -1,0 +1,26 @@
+blockquote {
+    padding-left: 50pt;
+    background-image: url("/assets/images/quote.svg");
+    background-repeat: no-repeat;
+    background-size: 30pt;
+    background-position-y: 15pt;
+    border-left: none;
+}
+
+blockquote>p {
+    padding-top: 10pt;
+}
+
+cite {
+    display: block;
+    font-weight: 200;
+    padding-top: 15pt;
+}
+
+.site-header {
+    background-color: rgb(23, 119, 203);
+}
+
+h1#orton-gillingham-tutoring {
+    text-align: center;
+}

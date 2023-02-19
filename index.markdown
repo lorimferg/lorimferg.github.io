@@ -40,23 +40,23 @@ This translation is an optional detailed explanation of the results from your ch
 ## Testimonials
 
 > Without you Lori, our daughter would be way behind her peers and held back in school. You have been so wonderful guiding her, supporting her, boosting her self-confidence and helping her shine!  Thank you so much from the bottom of our hearts!
-> &mdash; <cite>Robin S</cite>
+> <cite>Robin S</cite>
 
 ---
 
 > "Lori is a gem, so wonderful with my daughter, who even looks forward to the tutoring sessions (even on Friday nights. . .) She boosts her confidence, has really good homework materials, is very encouraging and while my daughter only had 67% on her last report card, she now has 81% (which is exceptional for her.")
-> &mdash; <cite>Antoinette G</cite>
+> <cite>Antoinette G</cite>
 
 ---
 
 > "Lori Ferg tutored my ESL granddaughter in English at Grade 4 level for six months... She did excellent work. The student looked forward to and enjoyed each visit. Her confidence in English and her school marks improved over all, and have remained good in Grade 5. She now reads lots of library books for pleasure."
-> &mdash; <cite>Pat M</cite>
+> <cite>Pat M</cite>
 
 ---
 
 ![](assets/images/testimonial.jpg)
 
-
+<!--
 ## I Want to Hear from You
 
 Thank you for your interest, and I look forward to helping you soon.
@@ -64,3 +64,4 @@ Thank you for your interest, and I look forward to helping you soon.
 <a href="mailto:info@lorilanguage.com">info@lorilanguage.com</a>
 
 <a href="tel:604-781-5558">604-781-5558</a>
+-->
