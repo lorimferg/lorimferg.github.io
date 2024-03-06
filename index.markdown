@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+author_profile: true
 # title: Lori Language Tutoring
 ---
 ![](assets/images/header.jpg)
@@ -18,7 +19,7 @@ I provide a warm and welcome learning environment for students who struggle with
 My name is Lori Ferg, and I am very passionate about tutoring and helping students. I am proud to be a BC Certified teacher, and I have been tutoring  in the Lower Mainland for over 27 years. Throughout this time, I have worked with over 100 elementary and secondary students from many cultural backgrounds and abilities. In addition to my degrees in Education and English Literature, I have completed my training and practicum in the Orton Gillingham approach to learning.
 
 
-## Orton Gillingham Tutoring: $85/hour
+## Orton Gillingham Tutoring: $105/hour
 
 
 The Orton Gillingham approach gives the student the opportunity to learn how to read and spell in a way that differs from the typical public school method. With this approach, the student learns how to match the letters of the alphabet into predictable sounds. This manner of instruction encourages the student to learn with his or her eyes, ears and fingers. This is know as VAKT or multisensory learning. 
@@ -31,7 +32,7 @@ Each Orton Gillingham lesson is individualized. I usually spend an hour’s wort
 ​
 Expect an 18 to 36 month commitment to bring your child up to grade level learning. 
 
-### Diagnostic Translation: $100
+### Diagnostic Translation: $125
 
 This translation is an optional detailed explanation of the results from your child's initial assessment.
 
@@ -39,7 +40,7 @@ This translation is an optional detailed explanation of the results from your ch
 
 ## Testimonials
 
-> Without you Lori, our daughter would be way behind her peers and held back in school. You have been so wonderful guiding her, supporting her, boosting her self-confidence and helping her shine!  Thank you so much from the bottom of our hearts!
+> Without you Lori, our daughter would be way behind her peers and held back in school. You have been so wonderful guiding her, supporting her, boosting her self-confidence and helping her shine! Thank you so much from the bottom of our hearts!
 > <cite>Robin S</cite>
 
 ---
